@@ -7,10 +7,6 @@ Este projeto é uma recriação da página inicial do **YouTube**, desenvolvida 
 - **HTML5** para a estrutura.
 - **CSS3** para estilização e layout responsivo.
 
-## Objetivo
-
-Praticar a conversão de layouts de design em código, focando na organização visual e no uso de Flexbox.
-
 ## Preview
 
 ![Preview](assets/images/thumbs/Projeto.png)

@@ -1,12 +1,11 @@
 ﻿# DESAFIO-GRID
 
-Este projeto é um clone de uma página do YouTube, criado para estudo de HTML e CSS durante a Formação CSS da DIO. A interface foi baseada em um design do Figma e recriada utilizando técnicas de layout com Flexbox.
+Este projeto é uma recriação da página inicial do **YouTube**, desenvolvida utilizando técnicas de **CSS Grid** e **Flexbox**. O objetivo foi replicar o layout da home page do YouTube, criando um design responsivo que se adapta a diferentes tamanhos de tela.
 
 ## Tecnologias Utilizadas
 
 - **HTML5** para a estrutura.
 - **CSS3** para estilização e layout responsivo.
-- **Figma** como base para o design.
 
 ## Objetivo
 
